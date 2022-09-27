@@ -1,0 +1,10 @@
+rodar npm install em todos 
+
+instalar o linux - WSL
+
+rodar -> npm run start:dev 
+  
+
+------------------------
+TOKEN GIT \/
+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
